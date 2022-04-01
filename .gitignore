@@ -8,8 +8,8 @@ pnpm-debug.log*
 lerna-debug.log*
 
 */node_modules
-server/_IGNORE_*
-server/*.data.json
+_IGNORE_*
+*.data.json
 */dist
 */dist-ssr
 */*.local
@@ -24,3 +24,4 @@ server/*.data.json
 *.njsproj
 *.sln
 *.sw?
+node_modules
