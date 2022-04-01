@@ -1,0 +1,4 @@
+{
+  "$schema": "https://json.schemastore.org/nodemon.json",
+  "ignore": ["fraxinus.data.json", "IGNORE_FRAXINUS"]
+}
